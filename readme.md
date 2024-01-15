@@ -13,4 +13,4 @@ you can take these files and write them to NTAG213 and then always switch betwee
 
 
 3. UMA
-  + Horse Girls 3/7
+  + Horse Girls 7/8
