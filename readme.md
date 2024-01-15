@@ -4,7 +4,7 @@ you can take these files and write them to NTAG213 and then always switch betwee
 
 1. SET1
   + All Starters 6/6 (Used as a Proof of Concept)
-  + Premium 5/6
+  + Premium 5/6  (Missing: Heavencraft Premium)
   + Alternate Leader 6/6 
 
 
@@ -13,4 +13,4 @@ you can take these files and write them to NTAG213 and then always switch betwee
 
 
 3. UMA
-  + Horse Girls 7/8
+  + Horse Girls 7/8  (Missing: Grass wonder)
