@@ -13,4 +13,4 @@ you can take these files and write them to NTAG213 and then always switch betwee
 
 
 3. UMA
-  + Horse Girls 7/8  (Missing: Grass wonder)
+  + Horse Girls 7/9  (Missing: Grass Wonder,Meijro Palmer)
