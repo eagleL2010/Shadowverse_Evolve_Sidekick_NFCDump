@@ -17,3 +17,8 @@ you can take these files and write them to NTAG213 and then always switch betwee
 
 4. Set3
   + Vtuber
+
+
+## License
+
+This project is licensed under the Creative Commons Attribution-NonCommercial (CC BY-NC) License - see the [LICENSE](LICENSE) file for details.
