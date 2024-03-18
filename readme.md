@@ -18,7 +18,7 @@ you can take these files and write them to NTAG213 and then always switch betwee
 4. Set3
   + Vtuber
   + Anime 3/3
-  + Alternative Leader 1/2
+  + Alternative Leader 2/2
 
 
 ## License
