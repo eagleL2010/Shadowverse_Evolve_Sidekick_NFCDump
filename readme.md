@@ -13,7 +13,7 @@ you can take these files and write them to NTAG213 and then always switch betwee
 
 
 3. UMA
-  + Horse Girls 8/9  (Missing: Grass Wonder)
+  + Horse Girls 9/9 
 
 4. Set3
   + Vtuber
