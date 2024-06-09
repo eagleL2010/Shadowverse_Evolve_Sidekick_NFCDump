@@ -22,7 +22,7 @@ you can take these files and write them to NTAG213 and then always switch betwee
 
 5. Set4
   + Anime 1/?
-  + Alt 1/2
+  + Alt 2/2
 
 ## License
 
