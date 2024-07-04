@@ -25,7 +25,7 @@ you can take these files and write them to NTAG213 and then always switch betwee
   + Alt 2/2
 
 5. Set5 - Omen Eternal
-  + Alt 2/5
+  + Alt 6/6
   
      
 
