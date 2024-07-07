@@ -4,7 +4,7 @@ you can take these files and write them to NTAG213 and then always switch betwee
 
 1. SET1 - Advent Of Genesis
   + All Starters 6/6
-  + Premium 5/6  (Missing: Heavencraft Premium)
+  + Premium 6/6
   + Alternate Leader 6/6 
 
 
