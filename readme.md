@@ -21,7 +21,7 @@ you can take these files and write them to NTAG213 and then always switch betwee
   + Alternative Leader 2/2
 
 5. Set4 - Cosmic Mythos
-  + Anime 1/?
+  + Anime 2/?
   + Alt 2/2
 
 5. Set5 - Omen Eternal
